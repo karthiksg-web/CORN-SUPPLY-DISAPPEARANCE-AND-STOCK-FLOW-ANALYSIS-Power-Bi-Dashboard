@@ -33,5 +33,3 @@ The dashboard helps identify supply–demand balance, inventory health, and cons
 - **File:** `corn_supply_disappearance_full.csv`
 
 > Dataset originally sourced from Kaggle and used here for educational and analytical purposes.
-
-## 📂 Repository Structure
