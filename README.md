@@ -1,0 +1,2 @@
+# CORN-SUPPLY-DISAPPEARANCE-AND-STOCK-FLOW-ANALYSIS----Power-Bi-Dashboard
+This project presents an interactive Power BI dashboard analyzing corn supply, disappearance, and stock flow across marketing years. It evaluates production, imports, domestic consumption, exports, and inventory levels to assess supply–demand balance, identify surplus and deficit periods, and support data-driven agricultural analysis.
